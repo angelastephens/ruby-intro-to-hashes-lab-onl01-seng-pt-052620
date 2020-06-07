@@ -7,7 +7,7 @@ actor={name:"Dwayne The Rock Johnson"}
 end
 
 def monopoly
-	monopoly = {railroads:{piece: "n"}}
+	monopoly = {railroads:{piece: 4}}
 
 end
 
